@@ -46,7 +46,7 @@ function App() {
                     <h1 className="text-3xl font-mono font-semibold text-center mb-8 text-[#1e132d]">
                         Manage Your Todos
                     </h1>
-                    <div className="mb-4">
+                    <div className="py-4 sm:px-8 md:px-16 mb-4 sm:my-3">
                         <TodoForm />
                     </div>
                     <div className="flex flex-col gap-4">
