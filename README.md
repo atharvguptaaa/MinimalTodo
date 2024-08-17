@@ -2,7 +2,7 @@
 
 A minimalist and attractive to-do list app built using React and the Context API. The Context API handles global state management, making the app efficient without prop drilling.
 
-**[Live Demo](https://todolist02-m093j5zww-atharv-guptas-projects.vercel.app/)** ✨
+**[Live Demo](https://todolist02-m093j5zww-atharv-guptas-projects.vercel.app/)** 
 
 ## Features ✨
 - Add, edit, and delete tasks.
